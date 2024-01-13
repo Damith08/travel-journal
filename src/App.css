@@ -33,3 +33,72 @@
   line-height: normal;
   letter-spacing: -1.085px;
 }
+
+.card {
+  padding: 10px 200px;
+}
+
+.card--section {
+  display: flex;
+}
+
+.card--image {
+  width: 150px;
+  height: 200px;
+  border-radius: 5px;
+  margin-right: 20px;
+}
+
+.location {
+  display: flex;
+}
+
+.location-img {
+  width: 7px;
+  height: 10px;
+  margin-top: 13px;
+  margin-right: 5px;
+}
+
+.location--text {
+  color: #2b283a;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.741px;
+  margin-right: 10px;
+}
+
+.google-map--link {
+  color: #918e9b;
+  font-size: 10.24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 12px;
+  text-decoration-line: underline;
+}
+
+.card--heading {
+  color: #2b283a;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.card--date {
+  color: #2b283a;
+  font-size: 10.24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.card--description {
+  color: #2b283a;
+  font-size: 10.24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 15.36px */
+}
