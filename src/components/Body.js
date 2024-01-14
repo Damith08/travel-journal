@@ -19,7 +19,9 @@ export default function Body(props) {
               className="location-img"
             ></img>
             <p className="location--text">{props.item.location}</p>
-            <p className="google-map--link">View on Google Maps</p>
+            <a href={props.item.googleMap} className="google-map--link">
+              View on Google Maps
+            </a>
           </div>
           <h1 className="card--heading">{props.item.title}</h1>
           <h5 className="card--date">{props.item.data}</h5>

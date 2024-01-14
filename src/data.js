@@ -8,6 +8,7 @@ export default [
     date: "12 Jan, 2021 - 24 Jan, 2021",
     location: "JAPAN",
     imageUrl: "https://source.unsplash.com/WLxQvbMyfas",
+    googleMap: "https://maps.app.goo.gl/PTs5Y928sdhf79d56",
   },
   {
     id: 2,
@@ -17,6 +18,7 @@ export default [
     date: "27 May, 2021 - 8 Jun, 2021",
     location: "AUSTRALIA",
     imageUrl: "https://source.unsplash.com/JmuyB_LibRo",
+    googleMap: "https://maps.app.goo.gl/XBYSCh8UGjHacRTH9",
   },
   {
     id: 3,
@@ -26,5 +28,6 @@ export default [
     date: "01 Oct, 2021 - 18 Nov, 2021",
     location: "NORWAY",
     imageUrl: "https://source.unsplash.com/3PeSjpLVtLg",
+    googleMap: "https://maps.app.goo.gl/oybLKhDFYxMiuxQ38",
   },
 ];
